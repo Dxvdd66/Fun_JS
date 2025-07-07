@@ -1,0 +1,13 @@
+{
+    "persona": {
+        "nombre": "Cristian",
+        "edad": 18,
+        "aprendiz": "true",
+        "residencia": {
+        "direccion": "Calle 34A #35-22",
+        "ciudad": "Palmira",
+        "departamento": "Valle del cauca"
+        },
+        "telefono": "3177210091"
+    }
+}

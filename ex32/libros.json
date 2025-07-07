@@ -1,0 +1,147 @@
+{
+    "biblioteca": [
+    {
+        "titulo": "Construcción y diseño de páginas web con html, css y javascript",
+        "editorial": "Ra‑Ma",
+        "edicion": "2023",
+        "isbn": "9789587925852",
+        "autores": {
+        "autor principal": "Pablo E. Fernández Casado",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["987654345678"],
+        "descripcion": "Libro para el aprendizaje básico y fundamentos de Páginas Web"
+    },
+    {
+        "titulo": "El gran libro de Android",
+        "editorial": "Alfaomega / Marcombo",
+        "edicion": "4ª edición (2014‑2015)",
+        "isbn": "9786076224946",
+        "autores": {
+        "autor principal": "Jesús Tomás Gironés",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544001952"],
+        "descripcion": "Guía paso a paso para programar en Android, desde conceptos básicos hasta publicación en Google Play"
+    },
+    {
+        "titulo": "Teoría de conjuntos y temas afines",
+        "editorial": "McGraw‑Hill (Serie Schaum)",
+        "edicion": "1992",
+        "isbn": "9789684229266",
+        "autores": {
+        "autor principal": "Seymour Lipschutz",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544000974"],
+        "descripcion": "Outline con teoría y 530 problemas resueltos sobre teoría de conjuntos"
+    },
+    {
+        "titulo": "Macroeconomía con aplicaciones a Latinoamérica",
+        "editorial": "McGraw‑Hill Interamericana",
+        "edicion": "19ª edición (2010)",
+        "isbn": "9786071503336",
+        "autores": {
+        "autor principal": "Paul A. Samuelson",
+        "autor secundario": "William D. Nordhaus",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544002114"],
+        "descripcion": "Texto de macroeconomía adaptado al contexto latinoamericano, con enfoque en modelos económicos regionales"
+    },
+    {
+        "titulo": "Seguridad informática. Básico",
+        "editorial": "Ecoe Ediciones",
+        "edicion": "2011",
+        "isbn": "9781449261672",
+        "autores": {
+        "autor principal": "Álvaro Gómez Vieites",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544000170"],
+        "descripcion": "Introducción a la gestión de la seguridad de la información: riesgos, políticas, normativa LOPD, modelos CIA, etc."
+    },
+    {
+        "titulo": "Arquitectura de computadoras",
+        "editorial": "Alfaomega",
+        "edicion": "1ª edición (25 junio 2010)",
+        "isbn": "9789871609062",
+        "autores": {
+        "autor principal": "Patricia Quiroga",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544000136"],
+        "descripcion": "Texto didáctico sobre arquitectura y hardware de computadoras, organizado en 14 capítulos"
+    },
+    {
+        "titulo": "Calidad y servicio. Conceptos y herramientas",
+        "editorial": "Ecoe Ediciones / Universidad de La Sabana",
+        "edicion": "3ª edición (2014)",
+        "isbn": "9789587710847",
+        "autores": {
+        "autor principal": "Martha Elena Vargas Quiñones",
+        "autor secundario": "Luzángela Aldana de Vega",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544000423"],
+        "descripcion": "Guía teórica‑práctica para diseñar, implementar y evaluar procesos de calidad y servicio en organizaciones"
+    },
+    {
+        "titulo": "Filosofía y muerte",
+        "editorial": "Trillas",
+        "edicion": "1ª edición (2015)",
+        "isbn": "9786071725196",
+        "autores": {
+        "autor principal": "José Antonio Dacal Alonso",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544002746"],
+        "descripcion": "Reflexión filosófica sobre el significado y el afrontamiento de la muerte desde múltiples perspectivas"
+    },
+    {
+        "titulo": "Microsoft SQL Azure. Administración y desarrollo en la nube",
+        "editorial": "Alfaomega / RC Libros",
+        "edicion": "2012",
+        "isbn": "9786077074298",
+        "autores": {
+        "autor principal": "María Pérez Marqués",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544000193"],
+        "descripcion": "Manual de administración y desarrollo de bases de datos en Microsoft SQL Azure"
+    },
+    {
+        "titulo": "Cómo tomar decisiones correctas",
+        "editorial": "Norma",
+        "edicion": "2000",
+        "isbn": "9789580458135",
+        "autores": {
+        "autor principal": "David A. Shapiro",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544000635"],
+        "descripcion": "Guía de sabiduría práctica para afrontar dilemas morales y decisiones cotidianas"
+    },
+    {
+        "titulo": "¡¡Aprenda a estresarse!! Cómo convertir una amenaza en una oportunidad",
+        "editorial": "Ediciones Díaz de Santos",
+        "edicion": "1ª edición",
+        "isbn": "9788490520444",
+        "autores": {
+        "autor principal": "José Carlos Fuertes Rocañín",
+        "autor secundario": "",
+        "autor terciario": ""
+        },
+        "codigo sena": ["769544002687"],
+        "descripcion": "Manual de psiquiatría para transformar el estrés en motor de crecimiento personal"
+    }
+    ]
+}
